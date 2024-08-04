@@ -22,6 +22,7 @@ h1 {
     background-size: contain;
     margin-left: 125px;
     margin-bottom: 150px;
+    box-sizing: border-box;
 }
 
 .text-wrapper {
