@@ -23,6 +23,7 @@ h1 {
     margin-left: 125px;
     margin-bottom: 150px;
     box-sizing: border-box;
+    margin: auto;
 }
 
 .text-wrapper {
