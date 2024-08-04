@@ -16,14 +16,12 @@ h1 {
 }
 
 .front-image {
-    width: 1150px;
+    width: 800px;
     height: 500px;
     background-image: url(../resources/img1.png);
     background-size: contain;
     margin-left: 125px;
     margin-bottom: 150px;
-    box-sizing: border-box;
-    margin: auto;
 }
 
 .text-wrapper {
