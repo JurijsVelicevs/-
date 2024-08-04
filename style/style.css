@@ -1,0 +1,82 @@
+body {
+    font-family:'Manrope'
+}
+
+
+h1 {
+    width: 956px;
+    letter-spacing: -0.03em;
+    height: 120px;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    margin-left: 125px;
+    margin-top: 128px;
+    margin-bottom: 70px;
+}
+
+.front-image {
+    width: 1150px;
+    height: 500px;
+    background-image: url(../resources/img1.png);
+    background-size: contain;
+    margin-left: 125px;
+    margin-bottom: 150px;
+}
+
+.text-wrapper {
+    color: white;
+    letter-spacing: -0.03em;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27.32px;
+    padding-top: 379px;
+    padding-left: 40px;
+    padding-right: 680px;
+    padding-bottom: 30px;
+}
+
+tag {
+    margin-left: 125px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24.59px;
+
+}
+
+h2 {
+    width: 1048px;
+    height: 366px;
+    margin-left: 128px;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61.47px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    letter-spacing: -0.03em;
+}
+
+a {
+    margin-left: 125px;
+    display: block;
+    border: 1px solid #AD1818;
+    text-align: center;
+    font-size: 20px;
+    width: 255px;
+    height: 67px;
+    line-height: 67px;
+    color: white;
+    text-decoration: none;
+    background-color: #AD1818;
+    border-radius: 5px;
+    letter-spacing: -0.03em;
+    font-weight: 400;
+    text-align: center;
+    cursor: default;
+    
+}
+
+a:hover {
+    color: black;
+    background-color: white;
+}
