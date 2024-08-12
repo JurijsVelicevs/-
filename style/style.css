@@ -217,6 +217,7 @@ a1:hover {
 }
 
 .two_room_img {
+    position: absolute;
     width: 1400px;
     height: 717px;
     background-image: url(../res/two_roomed_flat_designe.png);
