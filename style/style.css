@@ -130,7 +130,7 @@ h4 {
     position: absolute;
     width: 1150px;
     height: 500px;
-    background-image: url(../res/greetings_image.png);
+    background-image: url(/res/greetings_image.png);
     background-size: contain;
 }
 
@@ -275,7 +275,7 @@ a1:hover {
     position: absolute;
     width: 1400px;
     height: 717px;
-    background-image: url(../res/two_roomed_flat_designe.png);
+    background-image: url(/res/two_roomed_flat_designe.png);
     background-size: cover;
     background-repeat: no-repeat;
 
