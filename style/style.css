@@ -252,7 +252,7 @@ button {
 }
 
 .gallery__image {
-    background-image: url(/res/gallery_flat_designe.png);
+    background-image: url(../res/gallery_flat_designe.png);
     background-size: cover;
     background-position: 50%;
     position: relative;
@@ -285,7 +285,7 @@ button {
     display: block;
     width: 24px;
     height: 24px;
-    background-image: url(/res/phone.png);
+    background-image: url(../res/phone.png);
     margin-bottom: 12px;
 }
 
