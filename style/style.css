@@ -132,12 +132,13 @@ h4 {
     margin-top: 30px;
     font-size: 45px;
     line-height: 61.47px;
-    width: 710px;
+    width: 1048px;
     height: 336px;
+    letter-spacing: -0.03em;
 }
 
 button {
-    margin-top: 62px;
+    margin-top: 66px;
     font-size: 20px;
     letter-spacing: -0.03em;
     border: 1px solid #AD1818;
