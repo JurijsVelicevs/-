@@ -130,14 +130,14 @@ h4 {
 .about__text {
     margin-left: 3px;
     margin-top: 30px;
-    font-size: 35px;
-    line-height: 47.81px;
+    font-size: 45px;
+    line-height: 61.47px;
     width: 710px;
     height: 336px;
 }
 
 button {
-    margin-top: 30px;
+    margin-top: 62px;
     font-size: 20px;
     letter-spacing: -0.03em;
     border: 1px solid #AD1818;
